@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Faggot Destruction]]></title>
         <description><![CDATA[Faggot Destruction]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/faggot-destruction/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 20:49:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 20:49:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/faggot-destruction/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ouch]]></title>
+            <description><![CDATA[<article><h1>Ouch</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6615a98ac7db6e98d87a1ff98ca1a60fc2d33ccc.png"></article>]]></description>
+            <link>https://thegrid.ai/faggot-destruction/ouch/index.html</link>
+            <guid isPermaLink="false">c7c6e9c5-08d6-495b-a78a-0237c776fe4b</guid>
+            <pubDate>Sat, 05 Mar 2016 20:48:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Superman]]></title>
+            <description><![CDATA[<article><h1>Superman</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a502e9dbe7a29c0a8d977cf89595793cca5f293.png"></article>]]></description>
+            <link>https://thegrid.ai/faggot-destruction/superman/index.html</link>
+            <guid isPermaLink="false">833cdfd9-e79b-4eae-baf8-740059079af4</guid>
+            <pubDate>Sat, 05 Mar 2016 20:48:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ha!]]></title>
             <description><![CDATA[<article><h1>Ha!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40d85de5cc673ccc2bb09a326a242eb2eca93135.png"></article>]]></description>
-            <link>undefinedha/index.html</link>
+            <link>https://thegrid.ai/faggot-destruction/ha/index.html</link>
             <guid isPermaLink="false">d05ddabd-e60e-485a-baff-6738c883a089</guid>
             <pubDate>Sat, 05 Mar 2016 20:48:52 GMT</pubDate>
         </item>
