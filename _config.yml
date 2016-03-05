@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0
+  lightness: 0.0952381
+  brandStrength: 1
+  brandColors:
+    - '#030405'
+    - '#C4D9D7'
+    - '#423016'
+    - '#E90F30'
+    - '#CF9A91'
+  rhythmicContrast: 1
+typography_spectrum: 0.3690476
+name: Faggot Destruction
